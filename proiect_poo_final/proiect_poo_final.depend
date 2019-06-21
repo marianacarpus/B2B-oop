@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1484077473 source:c:\users\compaq\desktop\proiect_poo_final\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<iomanip>
+	"meniu.h"
+	"utilizator.h"
+
+1484208332 c:\users\compaq\desktop\proiect_poo_final\meniu.h
+	<iostream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<fstream>
+	<stdio.h>
+	<iomanip>
+	"utilizator.h"
+	<vector>
+	"produs.h"
+
+1484077871 c:\users\compaq\desktop\proiect_poo_final\include\utilizator.h
+	<iostream>
+	<string>
+
+1484208176 source:c:\users\compaq\desktop\proiect_poo_final\src\utilizator.cpp
+	"utilizator.h"
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+
+1484174116 c:\users\compaq\desktop\proiect_poo_final\include\produs.h
+	<string>
+	<fstream>
+	<iostream>
+
+1484208176 source:c:\users\compaq\desktop\proiect_poo_final\src\produs.cpp
+	"produs.h"
+
